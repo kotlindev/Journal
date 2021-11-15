@@ -9,10 +9,7 @@
 
 文章同步微信订阅号，作者微信订阅号：**极客开发者up**
 
-![wehcat](https://github.com/kotlindev/Journal/blob/main/img/wechat.jpg)
-
-
-(./img/wechat.jpg)
+![wehcat](./img/wechat.jpg)
 
 
 ## 文章列表
